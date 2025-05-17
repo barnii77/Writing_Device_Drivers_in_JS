@@ -1,5 +1,5 @@
 # Writing Device Drivers in Javascript
-[book](/book.pdf)
+[book](book.pdf)
 
 # Inspiration
 https://www.reddit.com/r/ProgrammerHumor/comments/46t2e7/device_drivers_in_javascript/
